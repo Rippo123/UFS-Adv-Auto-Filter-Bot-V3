@@ -6,7 +6,7 @@
 
   </a>
   
-  <a href="https://github.com/jinspalakkattu/UFS-Adv-Auto-Filter-Bot-V3/fork">
+  <a href="https://github.com/jinspalakattu/UFS-Adv-Auto-Filter-Bot-V3/fork">
     <img src="https://img.shields.io/github/forks/jinspalakkattu/UFS-Adv-Auto-Filter-Bot-V3?label=Fork&style=social">
 
   </a>  
